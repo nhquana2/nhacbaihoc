@@ -16,3 +16,5 @@ Hệ thống nhắc bài học dùng cho lớp học, nhà trường
 - Thiết lập thông tin database trong index.php và quanly.php
 - Tạo database với một table tên "tasks", một cột tên "task"
 - Thay đổi  user/pass đăng nhập trong login.php
+# Hình ảnh
+ ![Index](https://i.imgur.com/dfdHu5b.png)
