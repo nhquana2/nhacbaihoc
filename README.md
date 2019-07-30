@@ -10,3 +10,6 @@ Hệ thống nhắc bài học dùng cho lớp học, nhà trường
 - Back end: PHP
 # Changelog
 - First release
+# Thông tin đăng nhập
+- Username: admin
+- Password: 
