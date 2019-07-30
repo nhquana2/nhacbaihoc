@@ -12,4 +12,4 @@ Hệ thống nhắc bài học dùng cho lớp học, nhà trường
 - First release
 # Thông tin đăng nhập
 - Username: admin
-- Password: 
+- Password: demo
