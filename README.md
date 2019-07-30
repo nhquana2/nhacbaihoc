@@ -13,3 +13,4 @@ Hệ thống nhắc bài học dùng cho lớp học, nhà trường
 # Thông tin đăng nhập
 - Username: admin
 - Password: demo
+- Thiết lập thông tin database trong index.php và quanly.php
